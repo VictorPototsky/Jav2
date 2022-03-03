@@ -6,7 +6,6 @@ public class Main {
     static final int HALF = SIZE / 2;
 
     public static void main(String[] args) {
-
         feelArr1();
         feelArr2();
     }
